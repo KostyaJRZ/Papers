@@ -1,4 +1,4 @@
-package dev.jahir.frames.app
+package com.pixelplusui.Papers
 
 import com.github.javiersantos.piracychecker.PiracyChecker
 import dev.jahir.frames.ui.activities.FramesActivity
@@ -9,17 +9,17 @@ class MainActivity : FramesActivity() {
      * These things here have the default values. You can delete the ones you don't want to change
      * and/or modify the ones you want to.
      */
-    override val billingEnabled = true
+    override val billingEnabled = false
 
     override fun amazonInstallsEnabled(): Boolean = false
-    override fun checkLPF(): Boolean = true
-    override fun checkStores(): Boolean = true
+    override fun checkLPF(): Boolean = false
+    override fun checkStores(): Boolean = false
 
     /**
      * This is your app's license key. Get yours on Google Play Dev Console.
      * Default one isn't valid and could cause issues in your app.
      */
-    override fun getLicKey(): String? = "MIIBIjANBgkqhkiGgKglYGYGihLuihUuhhuBlouBkuiu"
+    override fun getLicKey(): String? = "false"
 
     /**
      * This is the license checker code. Feel free to create your own implementation or
@@ -29,6 +29,6 @@ class MainActivity : FramesActivity() {
      */
     override fun getLicenseChecker(): PiracyChecker? {
         destroyChecker() // Important
-        return if (BuildConfig.DEBUG) null else super.getLicenseChecker()
+        return null
     }
 }

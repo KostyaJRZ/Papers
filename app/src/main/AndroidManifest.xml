@@ -1,12 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="dev.jahir.frames.app">
-
-    <!-- Permission required for donations. Remove it if you don't use it -->
-    <uses-permission android:name="com.android.vending.BILLING" />
+    package="com.pixelplusui.Paper">
 
     <application
-        android:name=".MyApplication"
+        android:name="com.pixelplusui.Papers.MyApplication"
         android:allowBackup="true"
         android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
@@ -15,11 +12,10 @@
         android:requestLegacyExternalStorage="true"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/BaseFramesSplashScreenTheme"
         tools:ignore="UnusedAttribute">
 
         <activity
-            android:name=".MainActivity"
+            android:name="com.pixelplusui.Papers.MainActivity"
             android:label="@string/app_name">
 
             <!-- TODO: Do NOT remove the intent-filter tags -->

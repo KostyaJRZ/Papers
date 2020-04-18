@@ -1,7 +1,7 @@
 @file:Suppress("unused")
 
 object MyApp {
-    const val appId = "dev.jahir.frames.app"
-    const val version = 320
-    const val versionName = "3.2.0"
+    const val appId = "com.pixelplusui.Paper"
+    const val version = 13
+    const val versionName = "1.3"
 }

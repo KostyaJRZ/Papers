@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
-        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+        <item>https://cdn4.telesco.pe/file/tEL9MGLouO-jLRM7N_OnuIX6nO9NnqRlC-EEYdbA1-0REFbQorVYJrUOd3sIASv7o_eiW_qLnvDsMtkaeYoXLBVRlWw4GPqD_aZgoDElF2C3YE6IqQOsoquQpwdcMJuC5yaG9LI5dWOWq-1A_we8sHF6lxm8Wz2sNgbAXe8tdOXWRGA1UJll00Nk0v8djuhGotK5LG0gV1M2CU7lDLD5bFALLxwgEiGVaRCW3ngcj4MWLw4fPddRYxtXhubCXjiEwIaChpOq3yJZKm5kamHLIHmHeGx7A58kDpQYabUmC5GdT2YiugbJ_LXAFF0iIamuYpzqTSYVQejZGgPZOMy-yw.jpg</item>
+        <item>https://cdn4.telesco.pe/file/jaWQRFkjHfFpCbr7o9c8PF1Vh80iJb-OD69sw894x1yoCXPCAJwSQ0Os7W-H8vqk0mdRvWoHopuKghbPVkEGNFmm0RXqzWDselLNK0wCRziGTGUm0gWoBT_9fNLnaWzZzcSz8dyGmgaT5oaeCYO1zKqhwTmOVaN5xjsNN1qUwAVuGrFwhA7Lgit_X-p2RuAlGFVCiia5lJNFkfLfrSqhnPD7Zo_yzLpv5UvauBnDk7-8dCE2O4IaEgwy1Ig7YG2nPt_5PXc96Hknirnl0DhUavgBPa_KWEq-SqmeFnj3uveQukbxq6eDRyQ1xgkYy0bLeihexj__BUYl7eG-yuLmTA.jpg</item>
     </string-array>
 
     <string-array name="credits_titles">
-        <item>Your Name</item>
-        <item>Another Name</item>
+        <item>KostyaJRZ</item>
+        <item>ecnivtwelve</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Details of first credited person</item>
-        <item>Details of another credited person</item>
+        <item>ROM Lead-Developer</item>
+        <item>Wallpapers Designer</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Google+|Instagram</item>
-        <item>Facebook|Website|Twitter</item>
+        <item>Telegram</item>
+        <item>Telegram</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
-        <item>https://facebook.com/|https://jahir.dev/|https://twitter.com/jahirfiquitiva</item>
+        <item>https://t.me/kostyajrz</item>
+        <item>https://t.me/ecnivtwelve</item>
     </string-array>
 </resources>

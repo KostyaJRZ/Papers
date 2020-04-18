@@ -1,4 +1,4 @@
-package dev.jahir.frames.app
+package com.pixelplusui.Papers
 
 import dev.jahir.frames.ui.FramesApplication
 
